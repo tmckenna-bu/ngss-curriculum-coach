@@ -1,7 +1,7 @@
 
 import streamlit as st
 import json
-from app.utils.response_generator import ResponseGenerator
+from app.utils.response_generation import ResponseGenerator
 
 # Load curriculum metadata
 @st.cache_data
