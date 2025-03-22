@@ -1,0 +1,10 @@
+streamlit==1.43.2
+langchain
+openai
+pandas
+tqdm
+python-dotenv
+PyPDF2
+docx2txt
+chromadb
+gitpython
