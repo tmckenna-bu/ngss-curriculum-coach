@@ -7,7 +7,7 @@ based on retrieved curriculum resources.
 
 import os
 from langchain.prompts import ChatPromptTemplate, SystemMessagePromptTemplate, HumanMessagePromptTemplate
-from langchain.chat_models import ChatOpenAI
+from langchain_community.chat_models import ChatOpenAI
 
 
 class ResponseGenerator:
