@@ -1,3 +1,7 @@
+# Copyright (c) 2025 NGSS Phenomena, LLC. All Rights Reserved.
+# Author: T.J. McKenna
+# Proprietary and confidential.
+# See LICENSE file for licensing details.
 
 import streamlit as st
 import json
