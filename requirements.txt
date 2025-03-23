@@ -1,3 +1,8 @@
+# Copyright (c) 2025 NGSS Phenomena, LLC. All Rights Reserved.
+# Author: T.J. McKenna
+# Proprietary and confidential.
+# See LICENSE file for licensing details.
+
 streamlit==1.43.2
 langchain==0.0.352
 langchain-community==0.0.13
